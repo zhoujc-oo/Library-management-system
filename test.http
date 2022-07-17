@@ -1,0 +1,11 @@
+GET http://localhost:80/users/3/1
+Accept: application/json
+
+###
+### 查询
+GET localhost:80/users
+
+### 删除
+DELETE localhost:80/users/30
+
+
